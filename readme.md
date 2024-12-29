@@ -1,8 +1,6 @@
 # 🌟 The Echoes of the Mind 🌟
 
 
-[![Build Status](https://img.shields.io/travis/zxayed/echoes-of-the-mind.svg)](https://travis-ci.com/zxayed/echoes-of-the-mind)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/zxayed/echoes-of-the-mind/releases)
 
 ## 🌟 Description
 **The Echoes of the Mind** is an innovative backend application designed to provide a seamless and efficient server-side experience. Built with modern web technologies, it ensures performance, security, and scalability.
@@ -76,9 +74,6 @@ Here's a sample structure with tips on making it eye-catching:
 markdown
 # 🌟 The Echoes of the Mind 🌟
 
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![Build Status](https://img.shields.io/travis/yourusername/echoes-of-the-mind.svg)](https://travis-ci.com/yourusername/echoes-of-the-mind)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/yourusername/echoes-of-the-mind/releases)
 
 ## 🌟 Description
 **The Echoes of the Mind** is an innovative backend application designed to provide a seamless and efficient server-side experience. Built with modern web technologies, it ensures performance, security, and scalability.
